@@ -1,0 +1,16 @@
+Wed Jun 06 14:42:01 NZST 2018 : Apache Derby Network Server - 10.14.2.0 - (1828579) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Wed Jun 06 14:42:02 NZST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0163-d2f8-f612-ffff9ddf9752 
+on database directory C:\Users\Pierce\Documents\NetBeansProjects\Pokemon_GUI\enemyDB with class loader sun.misc.Launcher$AppClassLoader@266474c2 
+Loaded from file:/C:/Users/Pierce/Documents/NetBeansProjects/Pokemon_GUI/db-derby-10.14.2.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\Pierce\Documents\NetBeansProjects\Pokemon_GUI\db-derby-10.14.2.0-bin
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=C:\Users\Pierce\Documents\NetBeansProjects\Pokemon_GUI
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Jun 06 18:52:24 NZST 2018: Shutting down Derby engine
