@@ -1,7 +1,7 @@
 # Pokemoon-2
 User Interface upgrade compared to Pokemoon 1
 
-|CONNECT TO DATABASE IN NETBEANS FOR POKEMOON |
+CONNECT TO DATABASE IN NETBEANS FOR POKEMOON 
  ---------------------------------------------
 
 1. Ctrl + 5 to bring up services
