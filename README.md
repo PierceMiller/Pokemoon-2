@@ -1,7 +1,7 @@
 # Pokemoon-2
 User Interface upgrade compared to Pokemoon 1
 
-Demonstraion: https://www.youtube.com/watch?v=2kx5AeexjKc&t
+Demonstration: https://www.youtube.com/watch?v=2kx5AeexjKc&t
 
  Connect to Database in Netbeans for Pokemoon
  ---------------------------------------------
